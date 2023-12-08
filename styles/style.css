@@ -243,6 +243,11 @@ img.foto{
     margin-bottom: 15px;
 }
 
+hr{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
 footer{
     text-align: center;
     color: white;
